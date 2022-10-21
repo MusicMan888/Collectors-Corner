@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        
+        <!-- <link rel="stylesheet" href="../collectors-corner/"/> --> 
+
+        <meta charset="utf-8"/>
+        <title>Current Set Up</title>
+        
+        <!--<style>
+         /* for in-line css */
+        </style> -->
+
+      </head>
+      <body>
+        <h2>Current Set Up (Examp. Fender American Strat)</h2>
+
+        <li>String Gage
+          <ol>
+            <li>E :</li>
+            <li>B :</li>
+            <li>G :</li>
+            <Li>D :</Li>
+            <li>A :</li>
+            <li>E :</li>
+          </ol>
+        </li>
+        <li> String height
+          <ol>
+            <li>High E - 3rd Fret:____   - 12th fret:____</li>
+            <li>Low  E - 3rd Fret:____   - 12th fret:____</li>
+          </ol>
+        </li> 
+
+        <li> Pick Up Height 
+          <ol>
+            <li>High E - Neck:____ Middle:____Bridge:____</li>
+            <li>Low  E - Neck:____ Middle:____Bridge:____</li>
+          </ol>
+        </li>
+      </ul>
+      <p>Comments : </p>
+      </body>
+</html>
